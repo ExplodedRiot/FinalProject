@@ -16,13 +16,10 @@
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
         <li class=""><a href="#">Orders</a></li>
-        
-        <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cart(0)</a></li>
-        
-          </ul>
+
       </ul>
       <form class="navbar-form navbar-right">
+      <li><a href="#">Cart(0)</a></li>
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
@@ -30,6 +27,8 @@
       </form>
     
         </li>
+        <li><a href="#">Cart(0)</a></li>
+        
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
