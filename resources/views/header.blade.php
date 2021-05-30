@@ -19,15 +19,15 @@
         
       </ul>
       <form class="navbar-form navbar-left">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Cart(0)</a></li>
+        
+          </ul>
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Cart(0)</a></li>
-        
-          </ul>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
