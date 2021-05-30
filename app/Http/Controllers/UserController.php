@@ -16,6 +16,7 @@ class UserController extends Controller
            return "Email or Password not Found.";
        }
        else{
+           $req->session()->put('user', $user);
            return redirect('/');
        }
     }
