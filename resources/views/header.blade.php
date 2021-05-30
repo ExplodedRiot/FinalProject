@@ -18,7 +18,7 @@
         <li class=""><a href="#">Orders</a></li>
         
       </ul>
-      <ul class="navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Cart(0)</a></li>
         
           </ul>
