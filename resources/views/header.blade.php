@@ -17,17 +17,18 @@
         <li class="active"><a href="#">Home</a></li>
         <li class=""><a href="#">Orders</a></li>
         
-      </ul>
-      <form class="navbar-form navbar-left">
-      <ul class="nav navbar-nav navbar-right">
+        <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Cart(0)</a></li>
         
           </ul>
+      </ul>
+      <form class="navbar-form navbar-right">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
+    
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
