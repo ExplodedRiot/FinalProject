@@ -21,7 +21,7 @@ class ProductSeeder extends Seeder
             "price"=>'399.000',
             "description"=>"123456",
             "category"=>"Adidas",
-            "gallery"=>""
+            "gallery"=>"FinalProject\img\Adidas\Adidas lite racer 2.0 (IDR 399k).jpg"
         ]);
     }
 }
