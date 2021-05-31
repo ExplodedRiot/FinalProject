@@ -18,25 +18,32 @@ class ProductSeeder extends Seeder
         //
         DB::table('Products')->insert([
             [
-            'name'=>'Converse CTAS Cheerful Faded Spruce',
-            "price"=>'459.000',
+            'name'=>'CTAS Hi Camo Patch',
+            "price"=>'449.000',
             "description"=>"123456",
             "category"=>"Converse",
-            "gallery"=>"FinalProject\img\Converse\Converse CTAS cheerful faded spruce (IDR 459k).jpg"
+            "gallery"=>"FinalProject\img\Converse\CTAS Hi Camo Patch (IDR 449k).jpg"
             ],
             [
-            'name'=>'Nike Air Force 1 LE',
-            "price"=>'819.000',
+            'name'=>'Nike Air Max 90 LTR',
+            "price"=>'1.299.000',
             "description"=>"123456",
             "category"=>"Nike",
-            "gallery"=>"FinalProject\img\Nike\Nike Air Force 1 LE.jpg"
+            "gallery"=>"FinalProject\img\Nike\Nike Air Max 90 LTR.jpg"
             ],
             [
-            'name'=>'Vans Era Gum Green',
-            "price"=>'499.000',
+            'name'=>'Vans Authentic Stich Checkers Blue Mirage',
+            "price"=>'849.000',
             "description"=>"123456",
             "category"=>"Vans",
-            "gallery"=>"FinalProject\img\Vans\Vans era gum green (IDR 499k).jpg"
+            "gallery"=>"FinalProject\img\Vans\Vans authentic stich checkers blue mirage (IDR 849k).jpg"
+            ],
+            [
+            'name'=>'Adidas Samba OG Classic',
+            "price"=>'799.000',
+            "description"=>"123456",
+            "category"=>"Adidas",
+            "gallery"=>"FinalProject\img\Adidas\Adidas samba OG Classic (IDR 799k).jpg"
             ]
         ]);
     }
