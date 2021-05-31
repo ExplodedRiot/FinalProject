@@ -29,7 +29,7 @@ class ProductSeeder extends Seeder
             "price"=>'819.000',
             "description"=>"123456",
             "category"=>"Nike",
-            "gallery"=>"FinalProject\img\Adidas\Nike Air Force 1 LE.jpg"
+            "gallery"=>"FinalProject\img\Nike\Nike Air Force 1 LE.jpg"
             ],
             [
             'name'=>'Vans Era Gum Green',
