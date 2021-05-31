@@ -9,7 +9,7 @@
   </ol>
 
   <div class="carousel-item">
-  <img src="FinalProject\img\slide\slide1.jpg" alt="...">
+  <img src="img\slide\slide1.jpg" alt="...">
   <div class="carousel-caption d-none d-md-block">
     <h5>Check Out Our Latest Item!</h5>
     <p>Get Your Sneakers With Best Prices!</p>
